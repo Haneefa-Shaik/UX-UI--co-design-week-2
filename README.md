@@ -1,10 +1,12 @@
-# Name of project
+# UX/UI - Co-Design Your Home Page
 
-> A longer description
+> In this project, we will interview our teammate and get to know about their
+> needs and find a solution and finally design will be handovered to the
+> teammate.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [UX/UI - Co-Design Your Home Page](#uxui---co-design-your-home-page)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -22,19 +24,21 @@
 
 ## General info
 
-> A short description
+> Designing for my teammate [Cristobol](https://github.com/cristobal-lopez)
+> according to his requirements.
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./planning/assets/Screenshot%20about%20questionnaire.png)
+![Cream sandwich bowling bar (Cristobal-lopez)](./planning/assets/Bowlingbar.jpg)
 
 ## Technologies
 
 - Node 14.16.0
 - VSC code
 - JavaScript
-- ...
-- ...
+- HTML and CSS
+- Figma
 
 ## Setup
 
@@ -51,14 +55,12 @@ console.log("Hello World");
 
 List of features ready and Todos for future development
 
--
--
--
+- Interview and questionnaire completed.
+- Design completed
 
 To-do list:
 
--
--
+- Coding should be done.
 
 ## Status
 
@@ -66,11 +68,11 @@ Project is: _in progress_
 
 ## Inspiration
 
-Project by freeCodeCamp.org
+Referring bowling bar templates.
 
 ## Contact
 
-By [Name]
+By [Haneefa](https://github.com/Haneefa-Shaik)]
 
 ## Instructions for use
 
