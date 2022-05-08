@@ -16,7 +16,9 @@ his weekend time very joyfully.
 
 **Needs/Goals**: The place should definitely gonna be his go to place for a
 casual Sunday evening. The place should be with good food/drink options and free
-game of bowling under 10 euros. **Frustrations**: He is searching for a peaceful
+game of bowling under 10 euros. 
+
+**Frustrations**: He is searching for a peaceful
 place to enjoy his weekend.
 
 **Scenario**: He tried a lot of places but he was not satisfied with the prices.
