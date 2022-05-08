@@ -30,6 +30,7 @@
 ## Screenshots
 
 ![Example screenshot](./planning/assets/Screenshot%20about%20questionnaire.png)
+---
 ![Cream sandwich bowling bar (Cristobal-lopez)](./planning/assets/Bowlingbar.jpg)
 
 ## Technologies
@@ -72,7 +73,7 @@ Referring bowling bar templates.
 
 ## Contact
 
-By [Haneefa](https://github.com/Haneefa-Shaik)]
+By [Haneefa](https://github.com/Haneefa-Shaik)
 
 ## Instructions for use
 
